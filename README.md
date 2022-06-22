@@ -1,16 +1,17 @@
 # quizzer
 
-A new Flutter project.
+Quizzer is a simple Quizz application made with Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To use this project make sure you have installed Flutter and it's recommended to use an IDE to see the code.
 
-A few resources to get you started if this is your first Flutter project:
+Here's what the main Page Looks Like:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![alt text](https://serving.photos.photobox.com/801077100a1fbbd707dbfe31e632db25d001a6ad42b2528b8553ff28a33fbf1e7c055f47.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is the second page which shows score and redirects to home page.
+
+![alt text](https://serving.photos.photobox.com/208714902fb204b86bdc0798cab1b7993ed01c3b7ebd989680e348b07a40580b19d130d7.jpg)
+
+The question list can be changed from the directory: "data/question_list.dart"
